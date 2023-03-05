@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/fermac1/advice-generator)
+- Live Site URL: (https://fermac1.github.io/advice-generator/)
 
 ## My process
 
@@ -61,7 +61,7 @@ function getText() {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@fermac1](https://www.frontendmentor.io/profile/fermac1)
 
 ## Acknowledgments
 
